@@ -1,11 +1,12 @@
 ---
-title: This is the fourth example post
-date: 2020-02-03
-author: John Doe
-summary: Why contemplating our mortality can be a powerful catalyst for change
+title: Eleventy on glitch - overcoming initial hurdles
+date: 2021-01-03T00:00:00.000Z
+author: "Anthony "
+summary: When getting started with eleventy on glitch.com there were a few
+  initial 'newbie' hurdles to overcome such as understanding why nothing is
+  happening when I changed stuff!
 tags:
-  - environment
-  - politics
+  - Eleventy
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
