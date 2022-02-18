@@ -6,7 +6,7 @@ summary: When getting started with eleventy on glitch.com there were a few
   initial 'newbie' hurdles to overcome such as understanding why nothing is
   happening when I changed stuff!
 tags:
-  - Eleventy
+  - eleventy
 ---
 Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
 
