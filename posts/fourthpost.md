@@ -1,7 +1,7 @@
 ---
 title: Eleventy on glitch - overcoming initial hurdles
 date: 2021-01-03T00:00:00.000Z
-author: "Anthony "
+author: Anthony test
 summary: When getting started with eleventy on glitch.com there were a few
   initial 'newbie' hurdles to overcome such as understanding why nothing is
   happening when I changed stuff!
