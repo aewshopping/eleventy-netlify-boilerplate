@@ -10,20 +10,10 @@ summary: Variables in Eleventy front matter are very handy but only seem to work
 tags:
   - eleventy
 ---
-Leverage agile blockchain frameworks to provide a robust blockchain synopsis for high level blockchain overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+So the main problem for me here was that the variables need to be indented by two spaces.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+### Not a tab press!
 
-## Section Header
+### Two presses of the space bar... 🤔
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line.
-
-```text/2-3
-// this is a command
-function myCommand() {
-	let counter = 0;
-	counter++;
-}
-```
-
-Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+Then it was fine and variables calculated in yaml - njk syntax as expected
