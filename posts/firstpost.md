@@ -17,3 +17,5 @@ So the main problem for me here was that the variables need to be indented by tw
 ### Two presses of the space bar... 🤔
 
 Then it was fine and variables calculated in yaml - njk syntax as expected
+
+Is this going to work?
